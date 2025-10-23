@@ -8,6 +8,7 @@ public class HelloGit {
 
 		System.out.println("Jorge Saldaña");
 		JOptionPane.showMessageDialog(null, "Hello World by manumyx!");
+		System.out.println("Félix Trillo Montes");
 	}
 
 }
