@@ -6,7 +6,7 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 
-		System.out.println("Jorge Saldaña");
+		System.out.println("Jorge Saldaña Vega");
 		JOptionPane.showMessageDialog(null, "Hello World by manumyx!");
 		System.out.println("Félix Trillo Montes");
 	}
